@@ -20,7 +20,7 @@ Sparki's goal is to navigate the maze and find the object a the END of the maze.
 pick up the object and return it to the START of the maze.
 
 1.  He uses all five of his Infrared Reflectance Sensors to follow the maze center black
-line to ensur that he is always traveling in the center between the maze walls.
+line to ensure that he is always traveling in the center between the maze walls.
 2.  He uses his Ultrasonic Range Finder to detect the maze walls and make navigation 
 decisions.
 3.  He uses his Infrared Reflectance Sensors to detect the START and END of the maze.
